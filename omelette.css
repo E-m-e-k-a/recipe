@@ -1,0 +1,36 @@
+.fbox{
+        border-radius: 20px;
+    
+    width: fit-content;
+   
+}
+.container{
+    text-align: center;
+
+}
+.prep{
+    color: chocolate;
+}
+p{
+    text-align: justify;
+}
+.box{
+    
+    width: 1300px;
+    height: 150px;
+    background-color: lightpink;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.table{
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+td{
+    width: 90%;
+    border-bottom:1px solid #ccc; 
+    padding: 20px;
+    
+}
